@@ -40,14 +40,9 @@ I qoute some of the most motivational statements I've ever read:
 >because they’re getting paid, there’s an expectation that they
 >are there to perform, not practice."_
 
-So...
-
-
 Most important of all...
 
 >_"But that’s the real value of these
 >exercises; they’ll help you learn a language and how that
 >language is different from what you already know."_
-
-## Introduction
 
