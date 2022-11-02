@@ -1,4 +1,7 @@
-# Learn Bash Shell Scripting
+<p align="center">
+<img width="300" src="./bash-logo-dark.jpg" alt="Bash Logo">
+</p>
+<h1 align="center">Learn Bash Shell Scripting</h1>
 
 ## Introduction 
 
