@@ -46,3 +46,17 @@ Most important of all...
 >exercises; they’ll help you learn a language and how that
 >language is different from what you already know."_
 
+## More Resources
+
+### Challenges
+
+- [CMD Challenge Website](https://cmdchallenge.com/)
+
+### Archives
+- [PESU IO Shell Scripting - GitHub Archive](https://github.com/Gituser143/PESU-IO-Shell-Scripting)
+
+### Videos
+
+- [Edureka's Shell Scripting Crash Course](https://www.youtube.com/watch?v=GtovwKDemnI)
+- [Brad Traversy's Shell Scripting Crash Course](https://www.youtube.com/watch?v=v-F3YLd6oMw)
+
