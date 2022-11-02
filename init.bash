@@ -8,11 +8,12 @@ echo -e "\n\t[-] Initializer";
 echo -e "\n\t| - setup a new & ready-to-go workspace\n";
 
 # promt user for project name
-read -p "   | > Enter project name: " PROJECTDIR;
+read -p "        | > Enter project name: " PROJECTDIR;
 
 # initialize a few variables
-D_SHELL="./$PROJECTDIR/index.sh";
-D_CFILE="./$PROJECTDIR/main.c";
+D_SHELL="./$PROJECTDIR/index.bash";
+# D_CFILE="./$PROJECTDIR/main.c";
+D_README="./$PROJECTDIR/README.md";
 
 # check whether the directory already exists otherwise create it
 if [ -d "./$PROJECTDIR" ];
@@ -32,14 +33,22 @@ touch "$D_SHELL";
 # make it executable
 chmod +x "$D_SHELL";
 # add initial line
-which bash  > "$D_SHELL";
+echo "#!$BASH" > "$D_SHELL";
 
-echo -e "\n\t| - creating $D_CFILE";
+# echo -e "\n\t| - creating $D_CFILE";
 
-# creating C file
-touch "$D_CFILE";
+# # creating C file
+# touch "$D_CFILE";
+# # add template
+# echo -e "#include<stdio.h>\n\n\nint main () {\n\t// ...\n\n\treturn 0;\n\n}" > "$D_CFILE";
+
+echo -e "\n\t| - creating $D_README";
+
+# creating readme.md file
+touch "$D_README";
 # add template
-echo -e "#include<stdio.h>\n\n\nint main () {\n\t// ...\n\n\treturn 0;\n\n}" > "$D_CFILE";
+echo -e "# $PROJECTDIR\n\n ...about this repo" > "$D_README";
+
 
 echo -e "\n\t| - finished...\n\n\t| Check if your project is setup,\n\n\ttype:\n\n\t| \$ cd $PROJECTDIR && ls\n";
 
