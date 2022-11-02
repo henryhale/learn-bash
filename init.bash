@@ -47,14 +47,12 @@ echo -e "\n\t| - creating $D_README";
 # creating readme.md file
 touch "$D_README";
 # add template
-echo -e "
-<p align=\"center\">
+echo -e "<p align=\"center\">
 <img width=\"300\" src=\"../bash-logo-dark.jpg\" alt=\"Bash Logo\">
 </p>
 <h1 align=\"center\">$PROJECTDIR</h1>
 
 ...about this repo
-
 " > "$D_README";
 
 
