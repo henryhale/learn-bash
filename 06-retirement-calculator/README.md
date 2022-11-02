@@ -1,4 +1,7 @@
-# Retirement Calculator
+<p align="center">
+<img width="300" src="../bash-logo-dark.jpg" alt="Bash Logo">
+</p>
+<h1 align="center">Retirement Calculator</h1>
 
 Your computer knows what the current year is, which means
 you can incorporate that into your programs. You just have

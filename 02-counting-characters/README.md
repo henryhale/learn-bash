@@ -1,4 +1,7 @@
-# Counting the Number of Characters
+<p align="center">
+<img width="300" src="../bash-logo-dark.jpg" alt="Bash Logo">
+</p>
+<h1 align="center">Counting the Number of Characters</h1>
 
 Create a program that prompts for an input string and dis-
 plays output that shows the input string and the number of

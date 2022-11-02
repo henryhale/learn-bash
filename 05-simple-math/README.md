@@ -1,4 +1,7 @@
-# Simple Math
+<p align="center">
+<img width="300" src="../bash-logo-dark.jpg" alt="Bash Logo">
+</p>
+<h1 align="center">Simple Math</h1>
 
 You’ll often write programs that deal with numbers. And
 depending on the programming language you use, you’ll

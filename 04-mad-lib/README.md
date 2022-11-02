@@ -1,4 +1,7 @@
-# Mad Lib
+<p align="center">
+<img width="300" src="../bash-logo-dark.jpg" alt="Bash Logo">
+</p>
+<h1 align="center">Mad Lib</h1>
 
 Mad libs are a simple game where you create a story tem-
 plate with blanks for words. You, or another player, then

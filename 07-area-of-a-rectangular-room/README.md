@@ -1,4 +1,7 @@
-# Area of a Rectangular Room
+<p align="center">
+<img width="300" src="../bash-logo-dark.jpg" alt="Bash Logo">
+</p>
+<h1 align="center">Area of a Rectangular Room</h1>
 
 When working in a global environment, you’ll have to
 present information in both metric and Imperial units. And

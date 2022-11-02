@@ -1,4 +1,7 @@
-# Saying Hello
+<p align="center">
+<img width="300" src="../bash-logo-dark.jpg" alt="Bash Logo">
+</p>
+<h1 align="center">Saying Hello</h1>
 
 The “Hello, World” program is the first program you learn
 to write in many languages, but it doesn’t involve any input.

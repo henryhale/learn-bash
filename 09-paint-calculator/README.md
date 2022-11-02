@@ -1,4 +1,7 @@
-# Paint Calculator
+<p align="center">
+<img width="300" src="../bash-logo-dark.jpg" alt="Bash Logo">
+</p>
+<h1 align="center">Paint Calculator</h1>
 
 Sometimes you have to round up to the next number rather
 than follow standard rounding rules.

@@ -1,4 +1,7 @@
-# Pizza Party
+<p align="center">
+<img width="300" src="../bash-logo-dark.jpg" alt="Bash Logo">
+</p>
+<h1 align="center">Pizza Party</h1>
 
 Division isn’t always exact, and sometimes you’ll write
 programs that will need to deal with the leftovers as a whole
