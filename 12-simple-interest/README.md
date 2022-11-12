@@ -11,10 +11,10 @@ tions in your programs.
 Create a program that computes simple interest. Prompt for
 the principal amount, the rate as a percentage, and the time,
 and display the amount accrued (principal + interest).
-The formula for simple interest is A = P(1 + rt) , where P is
-the principal amount, r is the annual rate of interest, t is the
-number of years the amount is invested, and A is the amount
-at the end of the investment.
+The formula for simple interest is **A = P(1 + rt)**, where **P** is
+the _principal amount_, **r** is the _annual rate of interest_, **t** is the
+**number of years** the amount is invested, and **A** is the _amount
+at the end of the investment_.
 
 ## Example Output
 
