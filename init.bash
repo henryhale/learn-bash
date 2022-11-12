@@ -33,19 +33,12 @@ touch "$D_SHELL";
 # make it executable
 chmod +x "$D_SHELL";
 # add initial line
-echo "#!$BASH" > "$D_SHELL";
-
-# echo -e "\n\t| - creating $D_CFILE";
-
-# # creating C file
-# touch "$D_CFILE";
-# # add template
-# echo -e "#include<stdio.h>\n\n\nint main () {\n\t// ...\n\n\treturn 0;\n\n}" > "$D_CFILE";
-
-echo -e "\n\t| - creating $D_README";
+echo "#!/usr/bin/env bash" > "$D_SHELL";
 
 # creating readme.md file
+echo -e "\n\t| - creating $D_README";
 touch "$D_README";
+
 # add template
 echo -e "<p align=\"center\">
 <img width=\"300\" src=\"../bash-logo-dark.jpg\" alt=\"Bash Logo\">

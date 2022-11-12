@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 read -p "What is the qoute? " QOUTE;
 
