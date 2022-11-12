@@ -39,3 +39,7 @@ output.
 
 - Be sure you explicitly convert input to numerical data
 before doing any calculations.
+
+## Constraints
+
+- Use a single output statement.
