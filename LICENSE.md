@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Henry Hale (http:github.com/henryhale)
+Copyright (c) 2022 Henry Hale (http://github.com/henryhale)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
