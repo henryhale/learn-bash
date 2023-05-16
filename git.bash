@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 echo -e "\n\t [-] Git Pusher\n\n\t - starting...";
 

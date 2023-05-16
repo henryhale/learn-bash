@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # init.sh	- help create a full workspace of a new project
 # 			- containing all required files (C, Bash)
