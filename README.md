@@ -27,6 +27,10 @@ Below is a list of programs built while learning Bash Shell Scripting
 6. [Retirement Calculator](./06-retirement-calculator/)
 7. [Area of a Rectangular Room](./07-area-of-a-rectangular-room/)
 8. [Pizza Party](./08-pizza-party/)
+9. [Paint Calculator](./09-paint-calculator/)
+10. [Self Checkout](./10-self-checkout/)
+11. [Currency Conversion](./11-currency-conversion/)
+12. [Simple Interest](./12-simple-interest/)
 
 ## Why?
 
@@ -45,6 +49,20 @@ Most important of all...
 >_"But that’s the real value of these
 >exercises; they’ll help you learn a language and how that
 >language is different from what you already know."_
+
+## Development
+
+To get started with a new project, bootstrap one using:
+
+```sh
+$ ./init.bash [project_name]
+```
+
+To save changes to remote repo, simply run and follow the prompts
+
+```sh
+$ ./git.bash
+```
 
 ## More Resources
 

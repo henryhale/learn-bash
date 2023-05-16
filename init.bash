@@ -12,6 +12,7 @@ read -p "        | > Enter project name: " PROJECTDIR;
 
 # initialize a few variables
 D_SHELL="./$PROJECTDIR/index.bash";
+
 # D_CFILE="./$PROJECTDIR/main.c";
 D_README="./$PROJECTDIR/README.md";
 
@@ -30,8 +31,10 @@ echo -e "\n\t| - creating $D_SHELL";
 
 # creating BASH shell file
 touch "$D_SHELL";
+
 # make it executable
 chmod +x "$D_SHELL";
+
 # add initial line
 echo "#!/usr/bin/env bash" > "$D_SHELL";
 
