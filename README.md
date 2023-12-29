@@ -52,16 +52,34 @@ Most important of all...
 
 ## Development
 
+Clone this repository
+
+```sh
+git clone https://github.com/henryhale/learn-bash.git
+```
+
+Navigate to the repository folder
+
+```sh
+cd learn-bash
+```
+
+Make the `init.bash` file executable
+
+```sh
+chmod +x init.bash
+```
+
 To get started with a new project, bootstrap one using:
 
 ```sh
-$ ./init.bash [project_name]
+./init.bash [project_name]
 ```
 
 To save changes to remote repo, simply run and follow the prompts
 
 ```sh
-$ ./git.bash
+./git.bash
 ```
 
 ## More Resources
