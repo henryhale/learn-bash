@@ -7,7 +7,7 @@
 
 This repo is based on a book titled: **Exercises for Programmers: 57 challenges to Develop Your Coding Skills** by **_Brian P. Hogan_**, edited by _Susannah Davidson Pfalzer_.
 
-The book can be downloaded [here](https://www.pdfdrive.com/exercises-for-programmers-57-challenges-to-develop-your-coding-skills-d182425538.html)
+The book can be downloaded [here](https://github.com/Premalatha-success/Books-Python/blob/main/57%20Exercises%20for%20Programmers.pdf).
 
 > "_This book is all about practicing your craft as a programmer.
 >Flip to a page in this book, crack open your text editor, and
